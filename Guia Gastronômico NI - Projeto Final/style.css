@@ -9,6 +9,8 @@
   padding: 0;
 }
 
+
+
 :root{
   --color-primary: #f29c46;
   --color-secundary: #5E5C6C;
@@ -26,7 +28,6 @@ background:#fff2e6;
 height: 100vh;
 justify-content: center;
 align-items: center;
-
 }
 
 
@@ -571,9 +572,4 @@ ul{
 padding: 20%;
 margin: 40%;
 }
-
-
-
-
-
 
